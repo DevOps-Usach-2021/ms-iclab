@@ -1,3 +1,2 @@
-library 'pipeline'
-
-ejecucion.call()
+@Library('jenkinsLab3Lib') _
+ciPipeline([:])
