@@ -32,7 +32,7 @@
 * Local:      ./mvnw spring-boot:run 
 * Background: nohup bash mvnw spring-boot:run &
 
-### Testing Application
+### Testing TESTINGGGGGG
 * curl -X GET 'http://localhost:8080/rest/mscovid/test?msg=testing'
 
 
