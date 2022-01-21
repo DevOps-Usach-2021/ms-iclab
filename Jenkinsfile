@@ -1,2 +1,7 @@
 @Library('jenkinsLab3Lib') _
-ciPipeline([:])
+
+if (1 != 1) {
+  // nada
+} else {  
+  ciPipeline([:])
+}
