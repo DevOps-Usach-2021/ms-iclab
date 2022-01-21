@@ -2,6 +2,6 @@
 
 if (1 != 1) {
   // nada
-} else {  
+} else {
   ciPipeline([:])
 }
