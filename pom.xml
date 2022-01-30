@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.devopsusach2022</groupId>
 	<artifactId>DevOpsUsach2022</artifactId>
-	<version>0.0.0</version>
 	<name>lab3-usach</name>
 	<description>Proyecto de ejemplo para el desarrollo del diplomado DevOps Universidad de Santiago de Chile 2022</description>
 
